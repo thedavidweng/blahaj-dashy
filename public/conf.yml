@@ -21,7 +21,7 @@ sections:
   items:
   - title: 鲨博
     description: 鲨鱼 Only 的社区。
-    icon: ':shark:'
+    icon: blahaj.png
     url: https://memos.blahaj.uk/explore
     target: newtab
   
