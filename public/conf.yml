@@ -11,7 +11,8 @@ pageInfo:
 
 # Optional app settings and configuration
 appConfig:
-  theme: colorful
+  theme: material
+  faviconApi: iconhorse
 
 # Main content - An array of sections, each containing an array of items
 sections:
@@ -20,7 +21,7 @@ sections:
   items:
   - title: 鲨博
     description: 鲨鱼 Only 的社区。
-    icon: favicon
+    icon: ':shark:'
     url: https://memos.blahaj.uk/
     target: newtab
   
